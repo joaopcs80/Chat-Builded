@@ -1,0 +1,27 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# Obsolete dependency package
+.flutter-plugins-dependencies
+
+# IntelliJ related
+*.iml
+.idea/
+.idea_modules/
+
+# VS Code related
+.vscode/
+
+# Mac related
+.DS_Store
+
+# Ignore firebase.json
+firebase.json
+
+# Ignorar o arquivo firebase_options.dart na pasta lib
+lib/firebase_options.dart

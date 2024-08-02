@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823246031900",
+    "project_id": "chat-8897f",
+    "storage_bucket": "chat-8897f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823246031900:android:49e9793030248dc6db63d9",
+        "android_client_info": {
+          "package_name": "com.joao.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD04CqcqoVXSUZSAjoUH_izT9qDqkBg6xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
